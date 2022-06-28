@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893169859425",
+    "project_id": "densey-56041",
+    "storage_bucket": "densey-56041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893169859425:android:4412bd7fd3e846cfeea320",
+        "android_client_info": {
+          "package_name": "com.namasake.densey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893169859425-noigd3dj3mp91b6mdsaitqmjp3licb1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6IfLDX872_ZFv9j08Ei4uB0DrDf7ZmZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893169859425-noigd3dj3mp91b6mdsaitqmjp3licb1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
